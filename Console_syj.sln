@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHydee_SYJ", "Console\ConsoleHydee_SYJ.csproj", "{5591296E-FF98-4EC9-9FB5-200262E06282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFTpayInterface", "..\..\..\直营平台接口清单收集\直营平台接口清单收集\浙江振和-浙江健一行外部接口文档\C#版本demo——小额支付（付款码支付)_20190702163920 (2)\C#版本demo——小额支付（付款码支付)\WFTpayInterface\WFTpayInterface\WFTpayInterface.csproj", "{8403DBD9-2F19-4269-9EE6-EAE1E72E1FB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swiftpass.utils", "..\..\..\直营平台接口清单收集\直营平台接口清单收集\浙江振和-浙江健一行外部接口文档\C#版本demo——小额支付（付款码支付)_20190702163920 (2)\C#版本demo——小额支付（付款码支付)\WFTpayInterface\swiftpass.utils\swiftpass.utils.csproj", "{44A03C15-B331-454D-A65E-EC292F483F6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5591296E-FF98-4EC9-9FB5-200262E06282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5591296E-FF98-4EC9-9FB5-200262E06282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5591296E-FF98-4EC9-9FB5-200262E06282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5591296E-FF98-4EC9-9FB5-200262E06282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8403DBD9-2F19-4269-9EE6-EAE1E72E1FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8403DBD9-2F19-4269-9EE6-EAE1E72E1FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8403DBD9-2F19-4269-9EE6-EAE1E72E1FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8403DBD9-2F19-4269-9EE6-EAE1E72E1FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A03C15-B331-454D-A65E-EC292F483F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A03C15-B331-454D-A65E-EC292F483F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A03C15-B331-454D-A65E-EC292F483F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A03C15-B331-454D-A65E-EC292F483F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
